@@ -1,8 +1,6 @@
-
 import java.util.Stack;
 
 public class MyStringBuilder {
-
     private StringBuilder builder;
     private Stack<String> history;
 
